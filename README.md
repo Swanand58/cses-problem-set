@@ -10,4 +10,5 @@ CSES coding problems
 - [x] Missing Numbers - [https://cses.fi/problemset/result/9772771/]
 - [x] Repetition - [https://cses.fi/problemset/view/1069/]
 - [x] Weird Algorithm - [https://cses.fi/problemset/view/1068/]
-- [] Incrasing Array - [https://cses.fi/problemset/view/1094/]
+- [X] Incrasing Array - [https://cses.fi/problemset/view/1094/]
+- [X] Permutation - [https://cses.fi/problemset/view/1070/]
