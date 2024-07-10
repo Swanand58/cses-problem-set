@@ -21,6 +21,16 @@ arr = list(map(int, input().split()))
 total = 0
 first = arr[0]
 
-# for i in range(1, n):
+for i in range(1, n):
+    if arr[i] < first:
+        diff = first - arr[i]
+        total += diff
+        arr[i] = arr[i] + diff
+        first = arr[i]
+        diff = 0
+    else:
+        first = arr[i]
+
+print(total)
 
 
